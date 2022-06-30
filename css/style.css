@@ -51,9 +51,9 @@ background: #737A45;
 
 .meio{
     position: absolute;
-width: 50%;
+width: 55%;
 height: 50%;
-left: 30%;
+left: 29%;
 top: 30%;
 
 background: #91A276;
@@ -75,4 +75,24 @@ line-height: 110%;
 text-align: center;
 
 color: #ffffff;
+}
+
+.bol img{
+    position: absolute;
+bottom: 5%;
+width: 30%;
+height: 50% ;
+left: 11.93%;
+
+}
+.boll1 img{
+    position: absolute;
+bottom: 5%;
+left: 60%;
+    
+}
+.boll2 img{
+    position: absolute;
+bottom: 5%;
+left: 72.81%;
 }
