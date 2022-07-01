@@ -87,12 +87,346 @@ left: 11.93%;
 }
 .boll1 img{
     position: absolute;
-bottom: 5%;
+bottom: 1%;
 left: 60%;
+
     
 }
 .boll2 img{
     position: absolute;
-bottom: 5%;
+bottom: 1%;
 left: 72.81%;
+
+}
+
+.titulo{
+    position: absolute;
+width: 660px;
+height: 95px;
+left: 483px;
+top: 4%;
+
+font-family: 'IBM Plex Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 104px;
+text-align: center;
+
+color: #737A45;
+}
+
+.fft1 img{
+    position:absolute;
+width: 238px;
+height: 318px;
+left: 21%;
+top: 10%;
+
+border-radius: 211.5px;
+transform: rotate(-25.86deg);
+}
+.fft2 img{
+    position: absolute;
+width: 238px;
+height: 318px;
+left: 75%;
+top: 8%;
+
+border-radius: 211.5px;
+transform: rotate(29.92deg);
+}
+.fft3 img{
+    position: absolute;
+width:191.92px;
+height: 226.25px;
+left: 81%;
+top: 27%;
+
+border-radius: 211.5px;
+transform: rotate(100deg);
+}
+.telado{
+    position: absolute;
+width: 168px;
+height: 448px;
+left: 0%;
+top: 25%;
+
+font-family: 'IBM Plex Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #363c10;
+}
+#p img{
+    position: absolute;
+left: 0%;
+top: 0%;
+bottom: 90%;
+}
+
+.caixadeta{
+    position: absolute;
+width: 65%;
+height: 50%;
+left: 17%;
+top: 25%;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 200%;
+line-height: 110%;
+text-align: center;
+
+color: #ffffff;
+}
+.tituloa{
+    position: absolute;
+left: 35%;
+top: -10%;
+
+font-family: 'IBM Plex Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 104px;
+text-align: center;
+
+color: #ffffff;
+}
+
+.imga{
+    position: absolute;
+top: 40%;
+left: 20%;
+}
+
+.titulob{
+    position: absolute;
+left: 45%;
+top: 23%;
+
+font-family: 'IBM Plex Serif';
+font-style: normal;
+font-weight: 300;
+font-size: 55px;
+line-height: 104px;
+text-align: center;
+
+color: #ffffff;
+}
+
+.caixadetb{
+    position: absolute;
+width: 65%;
+height: 50%;
+left: 17%;
+top: 15%;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 200%;
+line-height: 110%;
+text-align: center;
+
+color: #ffffff;
+}
+
+.imgb{
+    position: absolute;
+top: 40%;
+left: 20%;
+}
+
+.caixadetc{
+    position: absolute;
+width: 65%;
+height: 50%;
+left: 17%;
+top: 20%;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 200%;
+line-height: 110%;
+text-align: center;
+
+color: #ffffff;
+}
+
+.tituloc{
+    position: absolute;
+left: 50%;
+top: 30%;
+
+font-family: 'IBM Plex Serif';
+font-style: normal;
+font-weight: 300;
+font-size: 55px;
+line-height: 104px;
+text-align: center;
+
+color: #ffffff;
+}
+
+.imgc{
+    position: absolute;
+top: 40%;
+left: 20%;
+}
+
+.titulom{
+    position: absolute;
+left: 45%;
+top: 35%;
+
+font-family: 'IBM Plex Serif';
+font-style: normal;
+font-weight: 300;
+font-size: 55px;
+line-height: 104px;
+text-align: center;
+
+color: #ffffff;
+}
+.caixadetm{
+    position: absolute;
+width: 65%;
+height: 50%;
+left: 17%;
+top: 25%;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 200%;
+line-height: 110%;
+text-align: center;
+
+color: #ffffff;
+}
+.imgm{
+    position: absolute;
+top: 40%;
+left: 20%;
+}
+
+.titulog{
+    position: absolute;
+left: 50%;
+top: 35%;
+
+font-family: 'IBM Plex Serif';
+font-style: normal;
+font-weight: 300;
+font-size: 55px;
+line-height: 104px;
+text-align: center;
+
+color: #ffffff;
+}
+.caixadetg{
+    position: absolute;
+width: 65%;
+height: 50%;
+left: 17%;
+top: 25%;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 200%;
+line-height: 110%;
+text-align: center;
+
+color: #ffffff;
+}
+
+.imgg{
+    position: absolute;
+top: 40%;
+left: 20%;
+}
+
+.titulop{
+    position: absolute;
+left: 50%;
+top: 23%;
+
+font-family: 'IBM Plex Serif';
+font-style: normal;
+font-weight: 300;
+font-size: 55px;
+line-height: 104px;
+text-align: center;
+
+color: #ffffff;
+}
+
+.caixadetp{
+    position: absolute;
+width: 65%;
+height: 50%;
+left: 17%;
+top: 17%;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 200%;
+line-height: 110%;
+text-align: center;
+
+color: #ffffff;
+}
+
+.imgp{
+    position: absolute;
+top: 40%;
+left: 20%;
+}
+
+.titulor{
+    position: absolute;
+left: 43%;
+top: 30%;
+
+font-family: 'IBM Plex Serif';
+font-style: normal;
+font-weight: 300;
+font-size: 55px;
+line-height: 104px;
+text-align: center;
+
+color: #ffffff;
+}
+
+.caixadetr{
+    position: absolute;
+width: 65%;
+height: 50%;
+left: 17%;
+top: 17%;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 200%;
+line-height: 110%;
+text-align: center;
+
+color: #ffffff;
+}
+
+.imgr{
+    position: absolute;
+top: 40%;
+left: 20%;
 }
