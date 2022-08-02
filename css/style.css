@@ -88,14 +88,13 @@ left: 11.93%;
 .boll1 img{
     position: absolute;
 bottom: 1%;
-left: 60%;
-
+right: 5%;
     
 }
 .boll2 img{
     position: absolute;
 bottom: 1%;
-rigth: 0%;
+right: 0%;
 
 }
 
@@ -103,7 +102,7 @@ rigth: 0%;
     position: absolute;
 width: 660px;
 height: 95px;
-left: 483px;
+left: 35%;
 top: 4%;
 
 font-family: 'IBM Plex Serif';
@@ -150,8 +149,8 @@ transform: rotate(100deg);
     position: absolute;
 width: 168px;
 height: 448px;
-left: 0%;
-top: 25%;
+left: 0,7%;
+top: 23%;
 
 font-family: 'IBM Plex Serif';
 font-style: normal;
